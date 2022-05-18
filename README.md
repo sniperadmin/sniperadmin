@@ -8,6 +8,13 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<h3 align="center">Resume</h3>
+
+---
+
+<img src="./cv1.jpg" />
+<img src="./cv2.jpg" />
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://codepen.io/nasr3090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nasr3090" height="30" width="40" /></a>
@@ -27,13 +34,43 @@
 
 ---
 
-<section>
+<section style="margin-bottom: 10px;">
   <a href="https://github.com/sniperadmin/nuxt-ts-storybook">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sniperadmin&repo=nuxt-ts-storybook&show_owner=true&theme=radical" />
   </a>
 
   <a href="https://github.com/sniperadmin/vue-chat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sniperadmin&repo=vue-chat&show_owner=true&theme=radical" />
+  </a>
+</section>
+
+<section style="margin-bottom: 10px;">
+  <a href="https://github.com/sniperadmin/graphaware-datatable">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sniperadmin&repo=graphaware-datatable&show_owner=true&theme=radical" />
+  </a>
+
+  <a href="https://github.com/sniperadmin/slidev-presentation-js">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sniperadmin&repo=slidev-presentation-js&show_owner=true&theme=radical" />
+  </a>
+</section>
+
+<section style="margin-bottom: 10px;">
+  <a href="https://github.com/sniperadmin/vite-vue2-ts">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sniperadmin&repo=vite-vue2-ts&show_owner=true&theme=radical" />
+  </a>
+
+  <a href="https://github.com/sniperadmin/crystals-generator-oop-functional">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sniperadmin&repo=crystals-generator-oop-functional&show_owner=true&theme=radical" />
+  </a>
+</section>
+
+<section style="margin-bottom: 10px;">
+  <a href="https://github.com/sniperadmin/mini-vue-framework-poc">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sniperadmin&repo=mini-vue-framework-poc&show_owner=true&theme=radical" />
+  </a>
+
+  <a href="https://github.com/sniperadmin/vue-compilation-performance">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sniperadmin&repo=vue-compilation-performance&show_owner=true&theme=radical" />
   </a>
 </section>
 
