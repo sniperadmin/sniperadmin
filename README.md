@@ -36,7 +36,7 @@
 
 <section style="margin-bottom: 10px;">
   <a href="https://github.com/sniperadmin/psb-analyzer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sniperadmin&repo=nuxt-ts-storybook&show_owner=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sniperadmin&repo=psb-analyzer&show_owner=true&theme=radical" />
   </a>
 
   <a href="https://github.com/sniperadmin/vue-chat">
