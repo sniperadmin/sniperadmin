@@ -35,7 +35,7 @@
 ---
 
 <section style="margin-bottom: 10px;">
-  <a href="https://github.com/sniperadmin/nuxt-ts-storybook">
+  <a href="https://github.com/sniperadmin/psb-analyzer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sniperadmin&repo=nuxt-ts-storybook&show_owner=true&theme=radical" />
   </a>
 
