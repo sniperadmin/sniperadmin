@@ -55,8 +55,8 @@
 </section>
 
 <section style="margin-bottom: 10px;">
-  <a href="https://github.com/sniperadmin/vite-vue2-ts">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sniperadmin&repo=vite-vue2-ts&show_owner=true&theme=radical" />
+  <a href="https://github.com/sniperadmin/vapi-vue-supabase">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sniperadmin&repo=vapi-vue-supabase&show_owner=true&theme=radical" />
   </a>
 
   <a href="https://github.com/sniperadmin/crystals-generator-oop-functional">
